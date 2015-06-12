@@ -1,4 +1,4 @@
-baseURL = "http://mkc188.github.io/blog"
+baseURL = "http://mkcee.com"
 builddrafts = true
 canonifyurls = true
 editor = "vim"
