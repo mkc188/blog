@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on My New Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/blog/post/</link>
+    <link>http://mkc188.github.io/blog/post/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/blog/post/first/</link>
+      <link>http://mkc188.github.io/blog/post/first/</link>
       <pubDate>Fri, 12 Jun 2015 13:18:47 HKT</pubDate>
       
-      <guid>http://localhost:1313/blog/post/first/</guid>
+      <guid>http://mkc188.github.io/blog/post/first/</guid>
       <description>Hello World!</description>
     </item>
     
