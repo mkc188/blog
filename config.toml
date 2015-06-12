@@ -1,3 +1,17 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseURL = "http://mkc188.github.io/blog"
+builddrafts = true
+canonifyurls = true
+editor = "vim"
 languageCode = "en-us"
+newContentEditor = "vim"
+publishdir = "dist"
+theme = "pixyll"
 title = "My New Hugo Site"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Tesla's Awesome Hugo Site"
+  author = "Nikola Tesla"
