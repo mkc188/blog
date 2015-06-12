@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+hugo && cp CNAME .gitignore dist
+
 set -o errexit #abort if any command fails
 
 deploy_directory=${GIT_DEPLOY_DIR:-dist}
@@ -61,7 +63,7 @@ function restore_head {
 	else
 		git symbolic-ref HEAD refs/heads/$previous_branch
 	fi
-	
+
 	git reset --mixed
 }
 
