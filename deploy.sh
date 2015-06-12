@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-hugo && cp CNAME .gitignore dist
+hugo && cp CNAME dist
 
 set -o errexit #abort if any command fails
 
