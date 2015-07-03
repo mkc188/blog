@@ -1,0 +1,23 @@
+{{ partial "head.html" . }}
+<div class="site-wrap">
+  {{ partial "header.html" . }}
+  <div class="post p2 p-responsive wrap" role="main">
+    <div class="measure">
+      <div class="post-header mb2">
+        <h1 class="py2">{{ .Title }}</h1>
+      </div>
+
+      <article class="post-content">
+        <div class="py2">
+          <form action="https://formspree.io/mkc188@gmail.com" method="POST" class="form-stacked form-light">
+            <input type="text" name="email" class="input mobile-block" placeholder="Email Address">
+            <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="What would you like to say?"></textarea>
+            <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
+          </form>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}
