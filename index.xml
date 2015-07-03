@@ -37,12 +37,12 @@
     </item>
     
     <item>
-      <title>about</title>
+      <title>About Pixyll</title>
       <link>http://mkcee.com/about/</link>
       <pubDate>Fri, 12 Jun 2015 13:18:19 HKT</pubDate>
       
       <guid>http://mkcee.com/about/</guid>
-      <description>A headline Some Content</description>
+      <description>This Jekyll theme was crafted with &amp;lt;3 by John Otander (@4lpine). Checkout the Github repository to download it, request a feature, report a bug, or contribute. It&amp;rsquo;s free, and open source (MIT). Thanks to the following: BASSCSS Jekyll Refills Solarized</description>
     </item>
     
   </channel>
