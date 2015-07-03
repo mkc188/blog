@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Tag1 on M.K.C. </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://mkcee.com/tags/tag1/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 03 Jul 2015 15:48:30 HKT</updated>
+    
+    <item>
+      <title>second</title>
+      <link>http://mkcee.com/post/second/</link>
+      <pubDate>Fri, 03 Jul 2015 15:48:30 HKT</pubDate>
+      
+      <guid>http://mkcee.com/post/second/</guid>
+      <description>Hello again.</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://mkcee.com/post/first/</link>
+      <pubDate>Fri, 12 Jun 2015 13:18:47 HKT</pubDate>
+      
+      <guid>http://mkcee.com/post/first/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
+

@@ -7,7 +7,16 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 03 Jul 2015 18:47:10 HKT</updated>
+    <updated>Fri, 03 Jul 2015 22:45:39 HKT</updated>
+    
+    <item>
+      <title>index</title>
+      <link>http://mkcee.com/</link>
+      <pubDate>Fri, 03 Jul 2015 22:45:39 HKT</pubDate>
+      
+      <guid>http://mkcee.com/</guid>
+      <description>personal projects command-line tools DeDuplicatus - A Deduplication-Enabled Multi-Cloud App web-instagram - Assignment 1 - Web Instagram youtube-remote - Assignment 2 - YouTube Remote shopping-website - a fast, secure, and user-friendly shopping website opengl-playground - CSCI3260 Assignment 2 non-photorealistic-rendering - CSCI 3290 Computational Photography Project neural-network-project - CSCI3230 Project linux-shell - CENG3150 Programming Assignment 1 java-database-project - CSCI3170 GROUP PROJECT hadoop-wordcount - CSCI4180 Assignment 1 fake-ireserve-bot - Fake iReserve Bot (Chrome Extension) csci3290 - CSCI3290 Assignment Collection csci3180 - CSCI3180 Assignment Collection chatroom - CENG3150 Programming Assignment 2 Othello - A command line Othello game written in C++ drift-runners - A real time multiplayer top-down car game vim plugins Code blocks use the solarized theme.</description>
+    </item>
     
     <item>
       <title>Say Hello</title>

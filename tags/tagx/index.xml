@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Tagx on M.K.C. </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/tags/tagx/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 12 Jun 2015 13:18:47 HKT</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Fri, 12 Jun 2015 13:18:47 HKT</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
+
