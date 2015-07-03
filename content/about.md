@@ -3,10 +3,20 @@ categories = []
 date = "2015-06-12T13:18:19+08:00"
 description = ""
 tags = []
-title = "about"
+title = "About Pixyll"
 
 +++
 
-## A headline
+This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+([@4lpine](https://twitter.com/4lpine)).
 
-Some Content
+Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
+request a feature, report a bug, or contribute. It's free, and open source
+([MIT](http://opensource.org/licenses/MIT)).
+
+Thanks to the following:
+
+* [BASSCSS](http://basscss.com)
+* [Jekyll](http://jekyllrb.com)
+* [Refills](http://refills.bourbon.io/)
+* [Solarized](http://ethanschoonover.com/solarized)
