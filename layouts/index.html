@@ -6,10 +6,11 @@
   {{ end }}
   <div class="post p2 p-responsive wrap" role="main">
     <div class="measure">
-        <div align="center">
-            <img src="{{ .Site.BaseUrl }}/images/404.jpg" />
-            <p>Error 404</p>
-        </div>
+        {{ range .Data.Pages }}
+            {{ if eq .Type "index" }}
+                {{ .Content }}
+            {{ end }}
+        {{ end }}
     </div>
   </div>
 </div>
