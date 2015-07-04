@@ -15,7 +15,7 @@
       <pubDate>Fri, 03 Jul 2015 22:45:39 HKT</pubDate>
       
       <guid>http://mkcee.com/</guid>
-      <description>personal projects some coursework DeDuplicatus - A Deduplication-Enabled Multi-Cloud App web-instagram - Assignment 1 - Web Instagram youtube-remote - Assignment 2 - YouTube Remote shopping-website - A fast, secure, and user-friendly shopping website prototype non-photorealistic-rendering - CSCI 3290 Computational Photography Project neural-network-project - CSCI3230 Project opengl-playground - CSCI3260 Assignment 2 linux-shell - CENG3150 Programming Assignment 1 chatroom - CENG3150 Programming Assignment 2 java-database-project - CSCI3170 GROUP PROJECT hadoop-wordcount - CSCI4180</description>
+      <description>personal projects some coursework DeDuplicatus - A Deduplication-Enabled Multi-Cloud App web-instagram - Web Instagram written in python CGI youtube-remote - YouTube Remote using socket.io shopping-website - A fast, secure, and user-friendly shopping website prototype non-photorealistic-rendering - CSCI 3290 Computational Photography Project neural-network-project - CSCI3230 Project opengl-playground - CSCI3260 Assignment 2 linux-shell - CENG3150 Programming Assignment 1 chatroom - CENG3150 Programming Assignment 2 java-database-project - CSCI3170 GROUP PROJECT hadoop-wordcount - CSCI4180</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       <pubDate>Fri, 03 Jul 2015 15:48:30 HKT</pubDate>
       
       <guid>http://mkcee.com/post/vim-is-the-worst-text-editor-ever/</guid>
-      <description>&amp;hellip;except you have build your own config I started my vimrc from bling/dotvim. Then I tried to find more config from some popular &amp;ldquo;Vimers&amp;rdquo;. Here&amp;rsquo;s the list: tpope/tpope Valloric/dotfiles tarruda/dot-files jasonlong/dotfiles ajh17/dotfiles romainl/dotvim jdavis/dotfiles Hope you find it useful.</description>
+      <description>&amp;hellip;except you have built your own config I started my vimrc from bling/dotvim. Then I tried to find more config from some popular &amp;ldquo;Vimers&amp;rdquo;. Here&amp;rsquo;s the list: tpope/tpope Valloric/dotfiles tarruda/dot-files jasonlong/dotfiles ajh17/dotfiles romainl/dotvim jdavis/dotfiles Hope you find it useful.</description>
     </item>
     
     <item>
