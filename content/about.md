@@ -3,20 +3,12 @@ categories = []
 date = "2015-06-12T13:18:19+08:00"
 description = ""
 tags = []
-title = "About Pixyll"
+title = "About Me"
 
 +++
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Hi, my name is Mok Ka Chun and I am graduated from The Chinese University of Hong Kong with a bachelor's degree in Computer Science. Currently this site is sill in alpha stage and there is no brilliant thing to show. But you can browse some of my personal projects or blog posts to know more about me.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+Contact: [mkc188@gmail.com](mailto:mkc188@gmail.com)
