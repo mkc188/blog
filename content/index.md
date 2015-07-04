@@ -13,8 +13,8 @@ type = "index"
 ### some coursework
 
 * [DeDuplicatus](https://github.com/mkc188/DeDuplicatus) - A Deduplication-Enabled Multi-Cloud App
-* [web-instagram](https://github.com/mkc188/web-instagram) - Assignment 1 - Web Instagram
-* [youtube-remote](https://github.com/mkc188/youtube-remote) - Assignment 2 - YouTube Remote
+* [web-instagram](https://github.com/mkc188/web-instagram) - Web Instagram written in python CGI
+* [youtube-remote](https://github.com/mkc188/youtube-remote) - YouTube Remote using socket.io
 * [shopping-website](https://github.com/mkc188/shopping-website) - A fast, secure, and user-friendly shopping website prototype
 * [non-photorealistic-rendering](https://github.com/mkc188/non-photorealistic-rendering) - CSCI 3290 Computational Photography Project
 * [neural-network-project](https://github.com/mkc188/neural-network-project) - CSCI3230 Project

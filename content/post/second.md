@@ -9,7 +9,7 @@ author = "Mok Ka Chun"
 
 +++
 
-...except you have build your own config
+...except you have built your own config
 
 I started my [vimrc](https://github.com/mkc188/vimrc/blob/master/.vimrc) from [bling/dotvim](https://github.com/bling/dotvim/blob/master/vimrc).
 
