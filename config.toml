@@ -7,6 +7,7 @@ newContentEditor = "vim"
 publishdir = "dist"
 theme = "pixyll"
 title = "M.K.C."
+author = "Mok Ka Chun"
 
 [taxonomies]
   category = "categories"
@@ -15,3 +16,6 @@ title = "M.K.C."
 [params]
   description = "M.K.C.'s Awesome Personal Site"
   author = "Mok Ka Chun"
+  google_analytics_id = "UA-64777923-1"
+  disqus_shortname = "mkcee"
+  paginate = true
