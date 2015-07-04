@@ -15,7 +15,7 @@
       <pubDate>Fri, 03 Jul 2015 22:45:39 HKT</pubDate>
       
       <guid>http://mkcee.com/</guid>
-      <description>personal projects command-line tools DeDuplicatus - A Deduplication-Enabled Multi-Cloud App web-instagram - Assignment 1 - Web Instagram youtube-remote - Assignment 2 - YouTube Remote shopping-website - a fast, secure, and user-friendly shopping website opengl-playground - CSCI3260 Assignment 2 non-photorealistic-rendering - CSCI 3290 Computational Photography Project neural-network-project - CSCI3230 Project linux-shell - CENG3150 Programming Assignment 1 java-database-project - CSCI3170 GROUP PROJECT hadoop-wordcount - CSCI4180 Assignment 1 fake-ireserve-bot - Fake iReserve Bot (Chrome Extension) csci3290 - CSCI3290 Assignment Collection csci3180 - CSCI3180 Assignment Collection chatroom - CENG3150 Programming Assignment 2 Othello - A command line Othello game written in C++ drift-runners - A real time multiplayer top-down car game vim plugins Code blocks use the solarized theme.</description>
+      <description>personal projects some coursework DeDuplicatus - A Deduplication-Enabled Multi-Cloud App web-instagram - Assignment 1 - Web Instagram youtube-remote - Assignment 2 - YouTube Remote shopping-website - A fast, secure, and user-friendly shopping website prototype non-photorealistic-rendering - CSCI 3290 Computational Photography Project neural-network-project - CSCI3230 Project opengl-playground - CSCI3260 Assignment 2 linux-shell - CENG3150 Programming Assignment 1 chatroom - CENG3150 Programming Assignment 2 java-database-project - CSCI3170 GROUP PROJECT hadoop-wordcount - CSCI4180</description>
     </item>
     
     <item>
@@ -28,30 +28,30 @@
     </item>
     
     <item>
-      <title>second</title>
-      <link>http://mkcee.com/post/second/</link>
+      <title>Vim is the worst text editor ever</title>
+      <link>http://mkcee.com/post/vim-is-the-worst-text-editor-ever/</link>
       <pubDate>Fri, 03 Jul 2015 15:48:30 HKT</pubDate>
       
-      <guid>http://mkcee.com/post/second/</guid>
-      <description>Hello again.</description>
+      <guid>http://mkcee.com/post/vim-is-the-worst-text-editor-ever/</guid>
+      <description>&amp;hellip;except you have build your own config I started my vimrc from bling/dotvim. Then I tried to find more config from some popular &amp;ldquo;Vimers&amp;rdquo;. Here&amp;rsquo;s the list: tpope/tpope Valloric/dotfiles tarruda/dot-files jasonlong/dotfiles ajh17/dotfiles romainl/dotvim jdavis/dotfiles Hope you find it useful.</description>
     </item>
     
     <item>
-      <title>first</title>
-      <link>http://mkcee.com/post/first/</link>
+      <title>Hello World!</title>
+      <link>http://mkcee.com/post/hello-world/</link>
       <pubDate>Fri, 12 Jun 2015 13:18:47 HKT</pubDate>
       
-      <guid>http://mkcee.com/post/first/</guid>
-      <description>Hello World!</description>
+      <guid>http://mkcee.com/post/hello-world/</guid>
+      <description>Welcome to WordPress Hugo. This is your first post. Edit or delete it, then start blogging! This site is using Hugo, which is a static site generator. Unlike systems like WordPress, it shouldn&amp;rsquo;t automatically generate the first post like this.</description>
     </item>
     
     <item>
-      <title>About Pixyll</title>
+      <title>About Me</title>
       <link>http://mkcee.com/about/</link>
       <pubDate>Fri, 12 Jun 2015 13:18:19 HKT</pubDate>
       
       <guid>http://mkcee.com/about/</guid>
-      <description>This Jekyll theme was crafted with &amp;lt;3 by John Otander (@4lpine). Checkout the Github repository to download it, request a feature, report a bug, or contribute. It&amp;rsquo;s free, and open source (MIT). Thanks to the following: BASSCSS Jekyll Refills Solarized</description>
+      <description>Hi, my name is Mok Ka Chun and I am graduated from The Chinese University of Hong Kong with a bachelor&amp;rsquo;s degree in Computer Science. Currently this site is sill in alpha stage and there is no brilliant thing to show. But you can browse some of my personal projects or blog posts to know more about me. Contact: mkc188@gmail.com</description>
     </item>
     
   </channel>

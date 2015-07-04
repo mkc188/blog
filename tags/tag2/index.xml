@@ -3,7 +3,7 @@
   <channel>
       <title>Tag2 on M.K.C. </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://mkcee.com/tags/tag2/</link>
+    <link>http://localhost:1313/tags/tag2/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>first</title>
-      <link>http://mkcee.com/post/first/</link>
+      <link>http://localhost:1313/post/hello-world/</link>
       <pubDate>Fri, 12 Jun 2015 13:18:47 HKT</pubDate>
       
-      <guid>http://mkcee.com/post/first/</guid>
+      <guid>http://localhost:1313/post/hello-world/</guid>
       <description>Hello World!</description>
     </item>
     

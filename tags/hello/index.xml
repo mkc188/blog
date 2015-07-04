@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Hello on M.K.C. </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://mkcee.com/tags/hello/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 12 Jun 2015 13:18:47 HKT</updated>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://mkcee.com/post/hello-world/</link>
+      <pubDate>Fri, 12 Jun 2015 13:18:47 HKT</pubDate>
+      
+      <guid>http://mkcee.com/post/hello-world/</guid>
+      <description>Welcome to WordPress Hugo. This is your first post. Edit or delete it, then start blogging! This site is using Hugo, which is a static site generator. Unlike systems like WordPress, it shouldn&amp;rsquo;t automatically generate the first post like this.</description>
+    </item>
+    
+  </channel>
+</rss>
+
